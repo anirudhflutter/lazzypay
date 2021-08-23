@@ -15,5 +15,6 @@
 - [ ] BR Approved
 - [ ] AC Approved
 
+/label ~story
 /cc @all
 /assign @rkrsgitlab

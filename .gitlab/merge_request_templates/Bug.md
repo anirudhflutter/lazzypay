@@ -26,6 +26,6 @@
 ## Approvals
 - [ ] Tech Solution approved
 
-/label ~bug
+/label ~defect
 /cc @all
 /copy_metadata # <!-- #TicketNumber -->
