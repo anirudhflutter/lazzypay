@@ -27,5 +27,5 @@
 ## Approvals
 - [ ] Tech Solution approved
 
-/cc @BinateStation/WafiApps
-/copy_metadata <!-- #TicketNumber -->
+/cc @all
+/copy_metadata # <!-- #TicketNumber -->

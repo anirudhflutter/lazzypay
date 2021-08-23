@@ -40,5 +40,5 @@ logs, and code as it's very hard to read otherwise.) -->
 - [ ] RCA Approved
 
 /label ~bug
-/cc @BinateStation/WafiApps
+/cc @all
 /assign @rkrsgitlab

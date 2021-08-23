@@ -15,5 +15,5 @@
 - [ ] BR Approved
 - [ ] AC Approved
 
-/cc @BinateStation/WafiApps
+/cc @all
 /assign @rkrsgitlab

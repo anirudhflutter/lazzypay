@@ -27,5 +27,5 @@
 - [ ] Tech Solution approved
 
 /label ~bug
-/cc @BinateStation/WafiApps
-/copy_metadata <!-- #TicketNumber -->
+/cc @all
+/copy_metadata # <!-- #TicketNumber -->
