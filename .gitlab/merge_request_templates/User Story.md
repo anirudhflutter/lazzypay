@@ -28,5 +28,4 @@
 - [ ] Tech Solution approved
 
 /label ~story
-/cc @all
 /copy_metadata # <!-- #TicketNumber -->
