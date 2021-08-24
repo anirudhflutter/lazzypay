@@ -27,5 +27,4 @@
 - [ ] Tech Solution approved
 
 /label ~defect
-/cc @all
 /copy_metadata # <!-- #TicketNumber -->
