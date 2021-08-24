@@ -40,5 +40,4 @@ logs, and code as it's very hard to read otherwise.) -->
 - [ ] RCA Approved
 
 /label ~defect
-/cc @all
 /assign @rkrsgitlab
